@@ -1,0 +1,455 @@
+[
+  {
+    "id": "RES-001",
+    "name": "Metal Film Resistor 220Ω",
+    "category": "Resistors",
+    "subCategory": "Metal Film",
+    "description": "1/4W metal film resistor, ±1% tolerans, düşük gürültü uygulamaları için idealdir.",
+    "specifications": {
+      "resistance": "220Ω",
+      "power": "0.25W",
+      "tolerance": "±1%",
+      "temperatureCoefficient": "±50 ppm/°C",
+      "package": "Axial",
+      "operatingTemperature": "-55°C ~ +155°C",
+      "colorCode": ["Kırmızı", "Kırmızı", "Kahverengi", "Kahverengi", "Kahverengi"]
+    }
+  },
+  {
+    "id": "RES-002",
+    "name": "Metal Film Resistor 1kΩ",
+    "category": "Resistors",
+    "subCategory": "Metal Film",
+    "description": "1/4W metal film resistor, ±1% tolerans, genel amaçlı kullanım.",
+    "specifications": {
+      "resistance": "1kΩ",
+      "power": "0.25W",
+      "tolerance": "±1%",
+      "temperatureCoefficient": "±50 ppm/°C",
+      "package": "Axial",
+      "operatingTemperature": "-55°C ~ +155°C",
+      "colorCode": ["Kahverengi", "Siyah", "Siyah", "Kahverengi", "Kahverengi"]
+    }
+  },
+  {
+    "id": "RES-003",
+    "name": "Metal Film Resistor 10kΩ",
+    "category": "Resistors",
+    "subCategory": "Metal Film",
+    "description": "1/4W metal film resistor, ±1% tolerans, pull-up/pull-down devreleri için yaygın kullanılır.",
+    "specifications": {
+      "resistance": "10kΩ",
+      "power": "0.25W",
+      "tolerance": "±1%",
+      "temperatureCoefficient": "±50 ppm/°C",
+      "package": "Axial",
+      "operatingTemperature": "-55°C ~ +155°C",
+      "colorCode": ["Kahverengi", "Siyah", "Siyah", "Kırmızı", "Kahverengi"]
+    }
+  },
+  {
+    "id": "RES-004",
+    "name": "Carbon Film Resistor 470Ω",
+    "category": "Resistors",
+    "subCategory": "Carbon Film",
+    "description": "1/4W karbon film resistor, ±5% tolerans, maliyet etkin genel amaçlı çözüm.",
+    "specifications": {
+      "resistance": "470Ω",
+      "power": "0.25W",
+      "tolerance": "±5%",
+      "temperatureCoefficient": "±200 ppm/°C",
+      "package": "Axial",
+      "operatingTemperature": "-55°C ~ +125°C",
+      "colorCode": ["Sarı", "Mor", "Kahverengi", "Altın"]
+    }
+  },
+  {
+    "id": "RES-005",
+    "name": "SMD Resistor 100Ω 0805",
+    "category": "Resistors",
+    "subCategory": "SMD",
+    "description": "0805 paket boyutunda SMD chip resistor, yüzey montaj uygulamaları için tasarlanmıştır.",
+    "specifications": {
+      "resistance": "100Ω",
+      "power": "0.125W",
+      "tolerance": "±1%",
+      "temperatureCoefficient": "±100 ppm/°C",
+      "package": "0805 (2012 Metric)",
+      "operatingTemperature": "-55°C ~ +155°C",
+      "dimensions": "2.0mm x 1.25mm"
+    }
+  },
+  {
+    "id": "RES-006",
+    "name": "Wirewound Resistor 10Ω 5W",
+    "category": "Resistors",
+    "subCategory": "Wirewound",
+    "description": "5W tel sarımlı güç resistorü, yüksek güç devreleri ve akım algılama uygulamaları için uygundur.",
+    "specifications": {
+      "resistance": "10Ω",
+      "power": "5W",
+      "tolerance": "±5%",
+      "temperatureCoefficient": "±30 ppm/°C",
+      "package": "Axial Ceramic",
+      "operatingTemperature": "-55°C ~ +275°C",
+      "dimensions": "22mm x 9mm"
+    }
+  },
+  {
+    "id": "RES-007",
+    "name": "Potansiyometre 10kΩ",
+    "category": "Resistors",
+    "subCategory": "Variable",
+    "description": "Tek turlu panel tipi potansiyometre, ses kontrolü ve kalibrasyon devrelerinde kullanılır.",
+    "specifications": {
+      "resistance": "10kΩ",
+      "power": "0.5W",
+      "tolerance": "±20%",
+      "taper": "Linear (B)",
+      "rotation": "300°",
+      "shaftDiameter": "6mm",
+      "package": "Through-Hole"
+    }
+  },
+
+  {
+    "id": "CAP-001",
+    "name": "Seramik Kondansatör 100nF",
+    "category": "Capacitors",
+    "subCategory": "Ceramic",
+    "description": "100nF (0.1µF) çok katmanlı seramik kondansatör, bypass ve decoupling uygulamaları için standarttır.",
+    "specifications": {
+      "capacitance": "100nF",
+      "voltage": "50V",
+      "tolerance": "±10%",
+      "dielectric": "X7R",
+      "package": "Radial",
+      "operatingTemperature": "-55°C ~ +125°C",
+      "esr": "< 0.5Ω"
+    }
+  },
+  {
+    "id": "CAP-002",
+    "name": "Seramik Kondansatör 22pF",
+    "category": "Capacitors",
+    "subCategory": "Ceramic",
+    "description": "22pF seramik kondansatör, kristal osilatör yükleme kapasitörü olarak sıklıkla kullanılır.",
+    "specifications": {
+      "capacitance": "22pF",
+      "voltage": "50V",
+      "tolerance": "±5%",
+      "dielectric": "C0G/NP0",
+      "package": "Radial",
+      "operatingTemperature": "-55°C ~ +125°C",
+      "temperatureStability": "±30 ppm/°C"
+    }
+  },
+  {
+    "id": "CAP-003",
+    "name": "Elektrolitik Kondansatör 100µF",
+    "category": "Capacitors",
+    "subCategory": "Electrolytic",
+    "description": "100µF alüminyum elektrolitik kondansatör, güç kaynağı filtreleme devreleri için idealdir.",
+    "specifications": {
+      "capacitance": "100µF",
+      "voltage": "25V",
+      "tolerance": "±20%",
+      "esr": "< 0.3Ω",
+      "rippleCurrent": "180mA @ 100kHz",
+      "lifetime": "2000 saat @ 105°C",
+      "package": "Radial",
+      "diameter": "6.3mm",
+      "height": "11mm",
+      "polarity": "Polarize"
+    }
+  },
+  {
+    "id": "CAP-004",
+    "name": "Elektrolitik Kondansatör 1000µF",
+    "category": "Capacitors",
+    "subCategory": "Electrolytic",
+    "description": "1000µF yüksek kapasiteli elektrolitik kondansatör, ana güç hattı filtreleme ve enerji depolama için tasarlanmıştır.",
+    "specifications": {
+      "capacitance": "1000µF",
+      "voltage": "35V",
+      "tolerance": "±20%",
+      "esr": "< 0.1Ω",
+      "rippleCurrent": "680mA @ 100kHz",
+      "lifetime": "5000 saat @ 105°C",
+      "package": "Radial Snap-In",
+      "diameter": "12.5mm",
+      "height": "20mm",
+      "polarity": "Polarize"
+    }
+  },
+  {
+    "id": "CAP-005",
+    "name": "Tantalum Kondansatör 10µF",
+    "category": "Capacitors",
+    "subCategory": "Tantalum",
+    "description": "10µF tantalum kondansatör, düşük ESR ve yüksek kararlılık gerektiren hassas devreler için uygundur.",
+    "specifications": {
+      "capacitance": "10µF",
+      "voltage": "16V",
+      "tolerance": "±10%",
+      "esr": "< 1.5Ω",
+      "package": "SMD (Case B / 3528)",
+      "operatingTemperature": "-55°C ~ +125°C",
+      "polarity": "Polarize",
+      "dimensions": "3.5mm x 2.8mm x 1.9mm"
+    }
+  },
+  {
+    "id": "CAP-006",
+    "name": "Film Kondansatör 1µF",
+    "category": "Capacitors",
+    "subCategory": "Film",
+    "description": "1µF polyester film kondansatör, ses devreleri, zamanlayıcılar ve sinyal kuplajı uygulamaları için idealdir.",
+    "specifications": {
+      "capacitance": "1µF",
+      "voltage": "63V",
+      "tolerance": "±5%",
+      "dielectric": "Polyester (Mylar)",
+      "package": "Radial Box",
+      "operatingTemperature": "-40°C ~ +105°C",
+      "polarity": "Polarize Değil",
+      "dimensions": "13mm x 6mm x 9.5mm"
+    }
+  },
+
+  {
+    "id": "IC-001",
+    "name": "LM317T Ayarlanabilir Voltaj Regülatörü",
+    "category": "Integrated Circuits",
+    "subCategory": "Voltage Regulator",
+    "description": "1.2V ile 37V arasında ayarlanabilir çıkış voltajı sağlayan, 1.5A akım kapasiteli pozitif lineer voltaj regülatörü. Güç kaynağı tasarımlarında yaygın olarak kullanılır.",
+    "specifications": {
+      "type": "Adjustable Positive Linear Regulator",
+      "outputVoltageRange": "1.25V ~ 37V",
+      "outputCurrent": "1.5A",
+      "inputVoltageRange": "3V ~ 40V",
+      "dropoutVoltage": "2V (tipik)",
+      "lineRegulation": "0.01% / V",
+      "loadRegulation": "0.1%",
+      "package": "TO-220",
+      "pinConfiguration": {
+        "pinCount": 3,
+        "pins": [
+          { "pin": 1, "name": "ADJ", "function": "Adjust — Çıkış voltajını belirleyen direnç bölücü bağlantı noktası" },
+          { "pin": 2, "name": "VO", "function": "Output — Regüle edilmiş çıkış voltajı" },
+          { "pin": 3, "name": "VI", "function": "Input — Regüle edilmemiş giriş voltajı" }
+        ]
+      },
+      "thermalResistance": "4°C/W (heatsink ile)",
+      "operatingTemperature": "0°C ~ +125°C",
+      "formula": "Vout = 1.25V × (1 + R2/R1) + (Iadj × R2)"
+    }
+  },
+  {
+    "id": "IC-002",
+    "name": "7805 Sabit Voltaj Regülatörü",
+    "category": "Integrated Circuits",
+    "subCategory": "Voltage Regulator",
+    "description": "Sabit 5V çıkış sağlayan pozitif lineer voltaj regülatörü. Mikrodenetleyici ve dijital devreler için güç kaynağı uygulamalarında standarttır.",
+    "specifications": {
+      "type": "Fixed Positive Linear Regulator",
+      "outputVoltage": "5V",
+      "outputCurrent": "1.5A",
+      "inputVoltageRange": "7V ~ 25V",
+      "dropoutVoltage": "2V (tipik)",
+      "lineRegulation": "3mV (tipik)",
+      "loadRegulation": "15mV (tipik)",
+      "package": "TO-220",
+      "pinConfiguration": {
+        "pinCount": 3,
+        "pins": [
+          { "pin": 1, "name": "IN", "function": "Input — Regüle edilmemiş giriş voltajı" },
+          { "pin": 2, "name": "GND", "function": "Ground — Ortak toprak referansı" },
+          { "pin": 3, "name": "OUT", "function": "Output — 5V regüle edilmiş çıkış voltajı" }
+        ]
+      },
+      "thermalResistance": "5°C/W (heatsink ile)",
+      "operatingTemperature": "0°C ~ +125°C",
+      "rippleRejection": "62dB (tipik)"
+    }
+  },
+  {
+    "id": "IC-003",
+    "name": "7812 Sabit Voltaj Regülatörü",
+    "category": "Integrated Circuits",
+    "subCategory": "Voltage Regulator",
+    "description": "Sabit 12V çıkış sağlayan pozitif lineer voltaj regülatörü. Röle sürücü devreleri ve analog devreler için yaygın kullanılır.",
+    "specifications": {
+      "type": "Fixed Positive Linear Regulator",
+      "outputVoltage": "12V",
+      "outputCurrent": "1.5A",
+      "inputVoltageRange": "14V ~ 30V",
+      "dropoutVoltage": "2V (tipik)",
+      "lineRegulation": "4mV (tipik)",
+      "loadRegulation": "12mV (tipik)",
+      "package": "TO-220",
+      "pinConfiguration": {
+        "pinCount": 3,
+        "pins": [
+          { "pin": 1, "name": "IN", "function": "Input — Regüle edilmemiş giriş voltajı" },
+          { "pin": 2, "name": "GND", "function": "Ground — Ortak toprak referansı" },
+          { "pin": 3, "name": "OUT", "function": "Output — 12V regüle edilmiş çıkış voltajı" }
+        ]
+      },
+      "thermalResistance": "5°C/W (heatsink ile)",
+      "operatingTemperature": "0°C ~ +125°C"
+    }
+  },
+  {
+    "id": "IC-004",
+    "name": "NE555 Zamanlayıcı",
+    "category": "Integrated Circuits",
+    "subCategory": "Timer",
+    "description": "Çok yönlü zamanlayıcı entegresi; monostable, astable ve bistable modlarında çalışabilir. Darbe üretimi, osilatör ve zamanlama devrelerinde kullanılır.",
+    "specifications": {
+      "type": "General Purpose Timer",
+      "supplyVoltageRange": "4.5V ~ 16V",
+      "outputCurrent": "200mA (sink/source)",
+      "timingAccuracy": "±1% (tipik)",
+      "frequencyRange": "DC ~ 500kHz",
+      "package": "DIP-8",
+      "pinConfiguration": {
+        "pinCount": 8,
+        "pins": [
+          { "pin": 1, "name": "GND", "function": "Ground — Toprak bağlantısı" },
+          { "pin": 2, "name": "TRIG", "function": "Trigger — Tetikleme girişi (1/3 Vcc altında tetikler)" },
+          { "pin": 3, "name": "OUT", "function": "Output — Çıkış pini" },
+          { "pin": 4, "name": "RESET", "function": "Reset — Aktif düşük sıfırlama" },
+          { "pin": 5, "name": "CTRL", "function": "Control Voltage — Eşik voltajı kontrolü" },
+          { "pin": 6, "name": "THR", "function": "Threshold — Eşik girişi (2/3 Vcc üzerinde sıfırlar)" },
+          { "pin": 7, "name": "DIS", "function": "Discharge — Zamanlama kapasitörü deşarj pini" },
+          { "pin": 8, "name": "VCC", "function": "Supply — Pozitif besleme voltajı" }
+        ]
+      },
+      "operatingTemperature": "0°C ~ +70°C"
+    }
+  },
+  {
+    "id": "IC-005",
+    "name": "ATmega328P Mikrodenetleyici",
+    "category": "Integrated Circuits",
+    "subCategory": "Microcontroller",
+    "description": "8-bit AVR RISC tabanlı mikrodenetleyici, 32KB Flash bellek ile donatılmıştır. Arduino Uno'nun kalbidir ve gömülü sistem projelerinde yaygın olarak tercih edilir.",
+    "specifications": {
+      "type": "8-bit AVR Microcontroller",
+      "architecture": "RISC",
+      "flashMemory": "32KB",
+      "sram": "2KB",
+      "eeprom": "1KB",
+      "clockSpeed": "20MHz (maksimum)",
+      "supplyVoltageRange": "1.8V ~ 5.5V",
+      "ioPins": 23,
+      "adcChannels": 6,
+      "adcResolution": "10-bit",
+      "pwmChannels": 6,
+      "timers": "2x 8-bit, 1x 16-bit",
+      "communication": ["USART", "SPI", "I2C (TWI)"],
+      "package": "DIP-28 / TQFP-32",
+      "pinConfiguration": {
+        "pinCount": 28,
+        "pins": [
+          { "pin": 1, "name": "PC6/RESET", "function": "Reset — Aktif düşük sıfırlama / Port C Bit 6" },
+          { "pin": 7, "name": "VCC", "function": "Supply — Dijital besleme voltajı" },
+          { "pin": 8, "name": "GND", "function": "Ground — Dijital toprak" },
+          { "pin": 9, "name": "PB6/XTAL1", "function": "Kristal osilatör giriş pini" },
+          { "pin": 10, "name": "PB7/XTAL2", "function": "Kristal osilatör çıkış pini" },
+          { "pin": 20, "name": "AVCC", "function": "ADC besleme voltajı" },
+          { "pin": 21, "name": "AREF", "function": "ADC referans voltajı" }
+        ]
+      },
+      "operatingTemperature": "-40°C ~ +85°C"
+    }
+  },
+  {
+    "id": "IC-006",
+    "name": "LM358 Dual Op-Amp",
+    "category": "Integrated Circuits",
+    "subCategory": "Operational Amplifier",
+    "description": "Çift kanallı genel amaçlı operasyonel yükselteç. Tek veya çift besleme ile çalışabilir; sinyal yükseltme, aktif filtre ve karşılaştırıcı devrelerinde kullanılır.",
+    "specifications": {
+      "type": "Dual Operational Amplifier",
+      "channels": 2,
+      "supplyVoltageRange": "3V ~ 32V (tek), ±1.5V ~ ±16V (çift)",
+      "inputOffsetVoltage": "2mV (tipik)",
+      "gainBandwidthProduct": "1.1MHz",
+      "slewRate": "0.6V/µs",
+      "inputBiasCurrent": "45nA (tipik)",
+      "outputCurrent": "40mA",
+      "package": "DIP-8",
+      "pinConfiguration": {
+        "pinCount": 8,
+        "pins": [
+          { "pin": 1, "name": "OUT1", "function": "Output — 1. yükselteç çıkışı" },
+          { "pin": 2, "name": "IN1-", "function": "Inverting Input — 1. yükselteç eviren giriş" },
+          { "pin": 3, "name": "IN1+", "function": "Non-Inverting Input — 1. yükselteç evirmeyen giriş" },
+          { "pin": 4, "name": "GND/VEE", "function": "Ground veya negatif besleme" },
+          { "pin": 5, "name": "IN2+", "function": "Non-Inverting Input — 2. yükselteç evirmeyen giriş" },
+          { "pin": 6, "name": "IN2-", "function": "Inverting Input — 2. yükselteç eviren giriş" },
+          { "pin": 7, "name": "OUT2", "function": "Output — 2. yükselteç çıkışı" },
+          { "pin": 8, "name": "VCC", "function": "Supply — Pozitif besleme voltajı" }
+        ]
+      },
+      "operatingTemperature": "0°C ~ +70°C"
+    }
+  },
+  {
+    "id": "IC-007",
+    "name": "74HC595 Shift Register",
+    "category": "Integrated Circuits",
+    "subCategory": "Logic",
+    "description": "8-bit seri giriş, paralel çıkışlı kaydırma yazmacı (shift register). LED matrisleri ve pin genişletme uygulamalarında yaygın olarak kullanılır; kaskad bağlanabilir.",
+    "specifications": {
+      "type": "8-bit Serial-In Parallel-Out Shift Register",
+      "supplyVoltageRange": "2V ~ 6V",
+      "outputCurrent": "35mA (pin başına)",
+      "clockFrequency": "100MHz (@ 6V)",
+      "outputType": "Tri-State",
+      "package": "DIP-16 / SOIC-16",
+      "pinConfiguration": {
+        "pinCount": 16,
+        "pins": [
+          { "pin": 8, "name": "GND", "function": "Ground — Toprak bağlantısı" },
+          { "pin": 10, "name": "SRCLR", "function": "Shift Register Clear — Aktif düşük sıfırlama" },
+          { "pin": 11, "name": "SRCLK", "function": "Shift Register Clock — Seri veri saat girişi" },
+          { "pin": 12, "name": "RCLK", "function": "Register Clock / Latch — Çıkış kilitleme saat girişi" },
+          { "pin": 13, "name": "OE", "function": "Output Enable — Aktif düşük çıkış etkinleştirme" },
+          { "pin": 14, "name": "SER", "function": "Serial Input — Seri veri girişi" },
+          { "pin": 16, "name": "VCC", "function": "Supply — Pozitif besleme voltajı" }
+        ]
+      },
+      "operatingTemperature": "-40°C ~ +125°C"
+    }
+  },
+  {
+    "id": "IC-008",
+    "name": "LM7905 Negatif Voltaj Regülatörü",
+    "category": "Integrated Circuits",
+    "subCategory": "Voltage Regulator",
+    "description": "Sabit -5V çıkış sağlayan negatif lineer voltaj regülatörü. Çift beslemeli op-amp devreleri ve simetrik güç kaynağı tasarımlarında kullanılır.",
+    "specifications": {
+      "type": "Fixed Negative Linear Regulator",
+      "outputVoltage": "-5V",
+      "outputCurrent": "1.5A",
+      "inputVoltageRange": "-7V ~ -25V",
+      "dropoutVoltage": "2V (tipik)",
+      "lineRegulation": "5mV (tipik)",
+      "loadRegulation": "20mV (tipik)",
+      "package": "TO-220",
+      "pinConfiguration": {
+        "pinCount": 3,
+        "pins": [
+          { "pin": 1, "name": "GND", "function": "Ground — Ortak toprak referansı" },
+          { "pin": 2, "name": "IN", "function": "Input — Regüle edilmemiş negatif giriş voltajı" },
+          { "pin": 3, "name": "OUT", "function": "Output — -5V regüle edilmiş çıkış voltajı" }
+        ]
+      },
+      "thermalResistance": "5°C/W (heatsink ile)",
+      "operatingTemperature": "0°C ~ +125°C"
+    }
+  }
+]
