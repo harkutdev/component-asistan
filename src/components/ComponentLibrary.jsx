@@ -1,5 +1,5 @@
 import React, { useState, useMemo, useEffect } from 'react';
-import componentData from '../data/components.json';
+import componentData from '../data/Components.json';
 import './ComponentLibrary.css';
 
 const ComponentLibrary = () => {
