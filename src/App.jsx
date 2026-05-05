@@ -1,5 +1,5 @@
-import ComponentLibrary from './ComponentLibrary';
-import './ComponentLibrary.css';
+import ComponentLibrary from './components/ComponentLibrary';
+import './components/ComponentLibrary.css';
 
 export default function App() {
   return <ComponentLibrary />;
